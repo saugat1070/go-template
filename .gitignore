@@ -1,0 +1,16 @@
+# Environment secrets
+.env
+.env.*
+!.env.sample
+
+# Build outputs
+/bin/
+/dist/
+*.exe
+*.o
+# IDE
+.idea/
+.vscode/
+
+# Logs
+*.log
